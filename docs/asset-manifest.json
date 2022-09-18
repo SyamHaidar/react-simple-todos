@@ -1,10 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.ce958b6c.js",
-    "index.html": "/index.html",
-    "main.ce958b6c.js.map": "/static/js/main.ce958b6c.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.ce958b6c.js"
-  ]
+    "main.js": "/react-simple-todos/static/js/main.ce958b6c.js",
+    "index.html": "/react-simple-todos/index.html",
+    "main.ce958b6c.js.map": "/react-simple-todos/static/js/main.ce958b6c.js.map"
+  }
 }
